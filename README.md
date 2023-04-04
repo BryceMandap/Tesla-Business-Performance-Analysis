@@ -36,3 +36,8 @@ factors. For simplicity, I condensed the idea of success in smaller metrics and 
      - The growth rate of Tesla’s stock was around **62%**
 
 ## Key Visuals 
+
+![image](https://user-images.githubusercontent.com/129364286/229926819-483da206-1ecc-4592-bf6d-159f619f4d0d.png)
+
+![image](https://user-images.githubusercontent.com/129364286/229926852-ccc35412-31d7-45d0-a62f-de6d594363ea.png)
+
