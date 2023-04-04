@@ -1,6 +1,5 @@
 # Tesla Business Performance Analysis
 
-## Purpose of Project
 As Tesla is becoming an increasingly popular vehicle manufacturer, I wanted to discover how well they are performing by quantifying/analyzing real data. To help quantify their business performance, I analyzed a variety of features. I specifiically was interested in measurements of vehicle sales rates, marketshares, and stock evaluations.
 
 
